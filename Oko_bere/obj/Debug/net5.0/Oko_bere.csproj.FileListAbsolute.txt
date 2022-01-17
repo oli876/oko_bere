@@ -1,0 +1,16 @@
+c:\OK\Oko_bere\obj\Debug\net5.0\Oko_bere.csproj.AssemblyReference.cache
+c:\OK\Oko_bere\obj\Debug\net5.0\Oko_bere.GeneratedMSBuildEditorConfig.editorconfig
+c:\OK\Oko_bere\obj\Debug\net5.0\Oko_bere.AssemblyInfoInputs.cache
+c:\OK\Oko_bere\obj\Debug\net5.0\Oko_bere.AssemblyInfo.cs
+c:\OK\Oko_bere\obj\Debug\net5.0\Oko_bere.csproj.CoreCompileInputs.cache
+c:\OK\Oko_bere\bin\Debug\net5.0\Oko_bere.exe
+C:\OK\Oko_bere\bin\Debug\net5.0\Oko_bere.deps.json
+C:\OK\Oko_bere\bin\Debug\net5.0\Oko_bere.runtimeconfig.json
+C:\OK\Oko_bere\bin\Debug\net5.0\Oko_bere.runtimeconfig.dev.json
+c:\OK\Oko_bere\bin\Debug\net5.0\Oko_bere.dll
+C:\OK\Oko_bere\bin\Debug\net5.0\ref\Oko_bere.dll
+c:\OK\Oko_bere\bin\Debug\net5.0\Oko_bere.pdb
+c:\OK\Oko_bere\obj\Debug\net5.0\Oko_bere.dll
+c:\OK\Oko_bere\obj\Debug\net5.0\ref\Oko_bere.dll
+c:\OK\Oko_bere\obj\Debug\net5.0\Oko_bere.pdb
+C:\OK\Oko_bere\obj\Debug\net5.0\Oko_bere.genruntimeconfig.cache
